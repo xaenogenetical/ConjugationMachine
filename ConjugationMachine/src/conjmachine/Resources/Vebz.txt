@@ -1,0 +1,62 @@
+ser "to be (permanent)" 
+PRESENTE
+soy eres es somos son
+PASADO(indicative_preterite)
+fui fuiste fue fuimos fueron
+IMPERFECTO
+era eras era eramos eran
+FUTURO
+sere seras sera seremos seran
+SUBJUNTIVO
+sea seas sea seamos sean
+
+estar "to be (temporary)"
+PRESENTE
+estoy estas esta estamos estan
+PASADO
+estuve estuviste estuvo estuvimos estuvieron
+IMPERFECTO
+estaba estabas estaba estabamos estaban
+FUTURO
+estare estaras estara estaremos estaran
+SUBJUNTIVO
+este estes este estemos esten
+
+hablar "to speak"
+PRESENTE
+hablo hablas habla hablamos hablan
+PASADO
+hable hablaste hablo hablamos hablaron
+IMPERFECTO
+hablaba hablabas hablaba hablabamos hablaban
+FUTURO
+hablare hablaras hablara hablaremos hablaran
+SUBJUNTIVO
+hable hables hable hablemos hablen
+
+dar "to give"
+PRESENTE
+doy das da damos dan
+PASADO
+di diste dio dimos dieron
+IMPERFECTO
+daba dabas daba dabamos daban
+FUTURO
+dare daras dara daremos daran
+SUBJUNTIVO
+de des de demos den
+
+ir "to go"
+PRESENTE
+voy vas va vamos van
+PASADO
+fui fuiste fue fuimos fueron
+IMPERFECTO
+iba ibas iba ibamos iban
+FUTURO 
+ire iras ira iramos iran
+SUBJUNTIVO
+vaya vayas vaya vayamos vayan
+
+
+
