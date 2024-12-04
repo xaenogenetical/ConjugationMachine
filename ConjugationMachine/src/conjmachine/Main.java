@@ -178,16 +178,41 @@ public class Main {
 			token += " " + vz.next();
 		}
 		String def = token;
+		String[] pres = null;
+		String[] pas = null;
+		String[] imp = null;
+		String[] fut = null;
+		String[] subj = null;
+		while(true) {
+			String tense = vz.next();
+			switch(tense) {
+			case "PRESENTE" -> {
+				
+			}
+			case "PASADO" -> {
+				
+			}
+			case "IMPERFECTO" -> {
+				
+			}
+			case "FUTURO" -> {
+				
+			}
+			case "SUBJUNTIVO" -> {
+				
+			}
+			}
+			break;
+			}
+		pres = new String[] { vz.next(), vz.next(), vz.next(), vz.next(), vz.next() };
 		vz.next();
-		String[] pres = new String[] { vz.next(), vz.next(), vz.next(), vz.next(), vz.next() };
+		pas = new String[] { vz.next(), vz.next(), vz.next(), vz.next(), vz.next() };
 		vz.next();
-		String[] pas = new String[] { vz.next(), vz.next(), vz.next(), vz.next(), vz.next() };
+		imp = new String[] { vz.next(), vz.next(), vz.next(), vz.next(), vz.next() };
 		vz.next();
-		String[] imp = new String[] { vz.next(), vz.next(), vz.next(), vz.next(), vz.next() };
+		fut = new String[] { vz.next(), vz.next(), vz.next(), vz.next(), vz.next() };
 		vz.next();
-		String[] fut = new String[] { vz.next(), vz.next(), vz.next(), vz.next(), vz.next() };
-		vz.next();
-		String[] subj = new String[] { vz.next(), vz.next(), vz.next(), vz.next(), vz.next() };
+		subj = new String[] { vz.next(), vz.next(), vz.next(), vz.next(), vz.next() };
 		Tense presente = new Tense("presente", pres);
 		Tense pasado = new Tense("pasado", pas);
 		Tense imperf = new Tense("imperfecto", imp);
